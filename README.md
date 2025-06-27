@@ -23,13 +23,4 @@ It includes beginner-friendly scripts, small projects, and code examples across 
    git clone https://github.com/your-username/your-repo-name.git
 
 
-### To Add It to Your Repo:
 
-1. In VS Code:
-   - Create a file named `README.md` in the root folder of your project.
-   - Paste the above content into it.
-2. Then commit and push:
-   ```bash
-   git add README.md
-   git commit -m "Added README file"
-   git push origin main

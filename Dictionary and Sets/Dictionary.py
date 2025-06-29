@@ -1,5 +1,5 @@
 # Dictionary in Python
-# A dictionary is a collection of key-value pairs.
+# A dictionary is a collection of key-value pairs. in which each key is unique and values can be same if keys are same then it will update the value of key
 # Each key is unique and maps to a value.
 
 # Creating a dictionary

@@ -5,16 +5,13 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 
 ## 📚 Topics Covered
 
-- Variables and Data Types
-- Strings and String Functions
-- Conditional Statements
-- Loops (for, while)
-- Functions
-- Lists, Tuples, Dictionaries, Sets
-- File Handling
-- Basic OOP (Object-Oriented Programming)
-- Modules and Packages
-- Simple Projects (e.g., Calculator, Guessing Game)
+- Introduction 
+- Modules , Comments & pip 
+- Variables & Data Types
+- Strings
+- Lists & Tupples
+- Dictionary & Sets
+
 
 ## 🛠️ How to Use
 

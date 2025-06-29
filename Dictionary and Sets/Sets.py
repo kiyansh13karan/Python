@@ -82,6 +82,11 @@ print("Unique set from list:", unique_set)
 set_comprehension = {x for x in range(10) if x % 2 == 0}
 print("Set comprehension (even numbers from 0 to 9):", set_comprehension)
 
+# length of a set
+set_length = len(set_a)
+print("Length of set_a:", set_length)
+
+
 
 
 

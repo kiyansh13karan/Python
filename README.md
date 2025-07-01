@@ -14,7 +14,7 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 - Conditional Expression 
 - Operators
 - Loops 
-- Function 
+- Functions
 - Recursion 
 
 

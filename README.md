@@ -14,9 +14,9 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 - Conditional Expression 
 - Operators
 - Loops 
-   -> For loop
-   -> While loop
-   -> Range function
+   - For loop
+   - While loop
+   - Range function
 
 
 ## 🛠️ How to Use

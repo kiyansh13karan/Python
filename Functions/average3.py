@@ -10,6 +10,4 @@ num2 = int(input("Enter second number : "))
 num3 = int(input("Enter third number : ")) 
 
 res = cal_avg(num1 , num2 , num3)
-print("\nAverage of three number is : " , res)  
-
-
+print("\nAverage of three number is : " , res)

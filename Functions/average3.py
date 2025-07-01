@@ -13,4 +13,3 @@ res = cal_avg(num1 , num2 , num3)
 print("\nAverage of three number is : " , res)  
 
 
-("")

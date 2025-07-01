@@ -11,6 +11,8 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 - Strings
 - Lists & Tupples
 - Dictionary & Sets
+- Conditional Expression 
+- Operators
 
 
 ## 🛠️ How to Use

@@ -16,7 +16,7 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 - Loops 
 - Functions
 - Recursion 
-
+- Snake , Water , Gun game
 
 ## 🛠️ How to Use
 

@@ -8,7 +8,8 @@ Rules :-
 '''
 
 
-import random
+
+import random # We import the random module to allow the computer to make a random choice between snake, water, or gun.
 
 def game_result(user, comp) :
     if user == comp :
@@ -41,3 +42,21 @@ else :
     print(f"Computer chose: {comp_choice}")
     print(f"You chose: {user_choice}")
     print(game_result(user_choice, comp_choice))
+
+
+
+
+
+
+
+'''
+in function game_result() 
+    user = you 
+    comp = computer 
+
+    
+It checks :-
+If both chose the same → Draw
+If your choice wins → You win
+Otherwise → You lose
+'''

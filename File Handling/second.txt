@@ -1,2 +1,0 @@
-Hello , My name is Kiyansh Nayal.
-I am learning Python.

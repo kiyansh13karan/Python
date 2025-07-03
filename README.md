@@ -17,6 +17,7 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 - Functions
 - Recursion 
 - Snake , Water , Gun game
+-  File I/O
 
 ## 🛠️ How to Use
 

@@ -11,3 +11,11 @@ File operations in Python include:
 'a+'	=> Append and Read. Creates file if not exists.
 'b'	    => Binary mode (e.g., 'rb', 'wb').
 '''
+
+'''
+TYPE OF FILES :-
+
+There are 2 types of files :- 
+1. Text files (.txt, .c, etc) 
+2. Binary files (.jpg, .dat, etc) 
+'''

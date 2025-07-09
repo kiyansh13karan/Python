@@ -53,6 +53,25 @@ obj.child_method()   # Defined in Child
 
 
 
+# Example 3 :-
+# Parent class
+class Animal:
+    def speak(self):
+        print("The animal makes a sound.")
+
+# Child class that inherits from Animal
+class Dog(Animal):
+    pass  # No extra code added here
+
+# Creating an object of the child class
+d = Dog()
+d.speak()  # Inherited method from Animal class
+'''
+Output :- 
+
+The animal makes a sound.
+'''
+
 
 
 

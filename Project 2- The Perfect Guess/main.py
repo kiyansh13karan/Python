@@ -34,3 +34,16 @@ def guess_the_number():
 
 # Run the game
 guess_the_number()
+
+
+
+
+
+'''
+How it works :- 
+
+A random number between 1 and 100 is generated.
+The user is repeatedly prompted to guess the number.
+The program gives feedback based on whether the guess is too high or too low.
+When guessed correctly, it prints how many attempts were used.
+'''

@@ -1,0 +1,12 @@
+# Modules in Python :- 
+
+'''
+A module in Python is simply a file containing Python code — functions, variables, classes — that you can import and reuse in other Python programs.
+'''
+
+
+# Types of Modules 
+'''
+1. Built-in Modules 
+2. User defined Modules 
+'''

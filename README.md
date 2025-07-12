@@ -16,10 +16,10 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 - Loops 
 - Functions
 - Recursion 
-- Snake , Water , Gun game
+- Snake , Water , Gun game (Project-01)
 - File I/O
 - OOPS
-
+- The Perfect Guess (Project-02)
 ## 🛠️ How to Use
 
 1. Clone the repository:

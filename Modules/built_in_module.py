@@ -10,3 +10,14 @@ They are part of the Python Standard Library, which is a large collection of use
 import math
 print(f"Square root of 25 is : {math.sqrt(25)}")  # Output: 5.0
 print(f"Square root of 81 is : {math.sqrt(81)}")  # Output: 9.0
+
+
+
+
+import calendar
+# Display the calendar for a specific month and year
+year = int(input("Enter year (e.g. 2025): "))
+month = int(input("Enter month (1-12): "))
+# Display calendar for the selected month
+print("\nHere is the calendar:")
+print(calendar.month(year, month))

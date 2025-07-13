@@ -7,6 +7,7 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 
 - Introduction 
 - Modules , Comments & pip 
+- Typecasting
 - Variables & Data Types
 - Strings
 - Lists & Tupples

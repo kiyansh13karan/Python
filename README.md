@@ -13,6 +13,7 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 - Lists & Tupples
 - Dictionary & Sets
 - Conditional Expression 
+- Match Case Statement
 - Operators
 - Loops 
 - Functions

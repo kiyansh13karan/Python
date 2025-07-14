@@ -14,6 +14,7 @@ It includes beginner-friendly scripts, small projects, and code examples across 
 - Dictionary & Sets
 - Conditional Expression 
 - Match Case Statement
+- Exception Handling
 - Operators
 - Loops 
 - Functions
